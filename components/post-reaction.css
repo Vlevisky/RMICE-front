@@ -1,0 +1,97 @@
+.post-reaction-container1 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-layout-space-unitandhalf);
+  flex-direction: column;
+  padding-bottom: var(--dl-layout-space-unitandhalf);
+}
+ 
+.post-reaction-container2 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+ 
+.post-reaction-image {
+  width: 40px;
+  object-fit: cover;
+  margin-right: var(--dl-layout-space-unit);
+  border-radius: var(--dl-layout-radius-round);
+}
+ 
+.post-reaction-container3 {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.post-reaction-text1 {
+  color: var(--dl-color-secondary-400);
+  font-weight: 700;
+  line-height: 40px;
+  margin-bottom: var(--dl-layout-space-halfunit);
+}
+ 
+.post-reaction-text2 {
+  color: rgb(100, 116, 139);
+  font-weight: 300;
+  line-height: 1.625;
+}
+ 
+.post-reaction-container4 {
+  flex: 0 0 auto;
+  display: flex;
+  margin-top: var(--dl-layout-space-halfunit);
+  align-items: center;
+  flex-direction: row;
+}
+ 
+.post-reaction-icon1 {
+  fill: var(--dl-color-secondary-500);
+  width: 14px;
+  height: 100%;
+}
+ 
+.post-reaction-text3 {
+  color: var(--dl-color-secondary-500);
+  margin-left: 0.25rem;
+}
+ 
+.post-reaction-text4 {
+  color: var(--dl-color-secondary-500);
+  margin-left: 0.25rem;
+}
+ 
+.post-reaction-icon3 {
+  fill: var(--dl-color-secondary-500);
+  width: 14px;
+  margin-top: 2px;
+  margin-left: var(--dl-layout-space-unit);
+}
+ 
+.post-reaction-text5 {
+  color: var(--dl-color-secondary-500);
+  margin-left: 0.25rem;
+}
+ 
+.post-reaction-text6 {
+  color: var(--dl-color-secondary-500);
+  margin-left: 0.25rem;
+}
+ 
+.post-reaction-divider {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 0.5px;
+  display: flex;
+  opacity: 0.5;
+  align-self: center;
+  margin-top: var(--dl-layout-space-unit);
+  align-items: flex-start;
+  margin-bottom: var(--dl-layout-space-unit);
+  flex-direction: column;
+  background-color: var(--dl-color-gray-900);
+}
