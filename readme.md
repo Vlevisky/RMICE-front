@@ -44,17 +44,6 @@ A estrutura segue boas práticas de organização, contendo separação entre:
 - **Davi Correa Paião** – RM: 560438  
 - **Marcos Vinicius Gonçalves Santos** – RM: 560062
 
----
-
-## 🔗 Acesso ao Repositório
-
-> Link para o repositório GitHub: [https://github.com/seuusuario/nome-do-repositorio](https://github.com/seuusuario/nome-do-repositorio)  
-> *(Substitua pelo link real após publicação do projeto)*
-
-Todos os integrantes contribuíram ativamente com commits, revisões e testes durante o desenvolvimento.
-
----
-
 ## 📦 Entrega Final
 
 A entrega inclui:
